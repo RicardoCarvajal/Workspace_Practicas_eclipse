@@ -1,0 +1,48 @@
+package com.ricardo.main;
+
+/**
+ * @author Ricardo Carvajal
+ * 
+ * Esta clase nos da un ejemplo de la utilizacion de el ocultamiento de campos en JAVA.
+ * 
+ * */
+
+public class Main {
+
+	/**
+	 * Campo de clase el cual solo deberia ser modificado por el metodo usarCampo. 
+	 * 
+	 * */
+	private static int x = 1;
+	
+	/**
+	 * Comienza la ejecucion de la clase.
+	 * Se crea e inicializa la variable local X.
+	 * Implementa los metodos usarCampo y usarvariableLocal .
+	 * 
+	 * */
+	public static void main(String[] args) {
+		
+		/**
+		 * Variable local la cual oculta el campo de clase X. 
+		 * 
+		 * */
+		int x = 5;
+		
+		System.out.println("Mostrando variable local en metodo main: " + x);
+		
+		System.out.println("Mostrando variable local en metodo main: " + x);
+
+	}
+	
+	public static void usarCampo() {
+		
+		System.out.println("Mostrando campo de la clase en metodo usarcampo: " + x);
+		
+		x *= 10;
+		
+		System.out.println("Mostrando campo de la clase en metodo usarcampo: " + x);
+		
+	}
+
+}
