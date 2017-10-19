@@ -1,4 +1,4 @@
-package com.ricardo.main;
+package com.ricardo.declarations;
 
 /**
  * Esta clase nos da un ejemplo de la utilizacion de el ocultamiento de campos en JAVA.
@@ -7,7 +7,7 @@ package com.ricardo.main;
  * 
  */
 
-public class Main {
+public class MainDeclarations {
 
     /**
      * Campo de clase el cual solo deberia ser modificado por el metodo usarCampo.
