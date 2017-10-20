@@ -44,39 +44,44 @@ public class Code {
         return code;
     }
 
+    /**
+     * Metodo para insertar el valor del codigo
+     * 
+     * @param numero tipo int
+     */
     public void setCode(int code) {
         this.code = code;
     }
 
     /**
-     * Metodo para obtener el codigo
+     * Metodo para obtener el numero
      * 
-     * @return numero tipo int
+     * @return int
      */
     public int getNumero() {
         return number;
     }
 
     /**
-     * Metodo para obtener el codigo
+     * Metodo para insertar el valor del numero
      * 
-     * @param numero tipo int
+     * @paran numero tipo int
      */
     public void setNumero(int number) {
         this.number = number;
     }
 
     /**
-     * Metodo para obtener el codigo
+     * Metodo para obtener la ficha
      * 
-     * @return numero tipo int
+     * @return int
      */
     public int getFicha() {
         return dataSheet;
     }
 
     /**
-     * Metodo para obtener el codigo
+     * Metodo para insertar el valor de la ficha
      * 
      * @param numero tipo int
      */
@@ -85,20 +90,20 @@ public class Code {
     }
 
     /**
-     * Metodo para obtener el codigo
+     * Metodo para obtener la cedula
      * 
-     * @return numero tipo int
+     * @return int
      */
-    public int getCedula() {
+    public int getId() {
         return id;
     }
 
     /**
-     * Metodo para obtener el codigo
+     * Metodo para insertar el valor de la cedula
      * 
      * @param numero tipo int
      */
-    public void setCedula(int id) {
+    public void setId(int id) {
         this.id = id;
     }
 
