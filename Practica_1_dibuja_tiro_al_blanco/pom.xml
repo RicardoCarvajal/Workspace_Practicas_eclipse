@@ -1,7 +1,7 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
-  <groupId>herencia-llamadas_a_constructor_superclase</groupId>
-  <artifactId>herencia-llamadas_a_constructor_superclase</artifactId>
+  <groupId>Practica_1_dibuja_tiro_al_blanco</groupId>
+  <artifactId>Practica_1_dibuja_tiro_al_blanco</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <build>
     <sourceDirectory>src</sourceDirectory>
