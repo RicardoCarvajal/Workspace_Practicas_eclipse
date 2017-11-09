@@ -34,4 +34,12 @@ En el repositorio encontramos cada tema especificando el **tema en el nombre del
 
 	Se muestra como hacer la configuracion de los contenedores springmvc con codigo java pero extendiendo de la clase AbstractAnnotationConfigDispatcherServletInitializer la cual implementa la interfas WebApplicationInitializer. 
 
+* Practica_9_springmvc_manejo_vista_controlador_plantilla:
+
+	Se muestra como utilizar el modelo vista controlador con spring mvc y .tag de jsp.
+
+* Practica_11_springmvc_manejo_acceso_a_datos:
+
+	Se muestra como integrar spring mvc con JPA, y el paso de parametros en el mvc de spring.
+
 
