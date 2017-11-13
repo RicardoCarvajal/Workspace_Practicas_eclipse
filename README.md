@@ -42,4 +42,12 @@ En el repositorio encontramos cada tema especificando el **tema en el nombre del
 
 	Se muestra como integrar spring mvc con JPA, y el paso de parametros en el mvc de spring.
 
+* Practica_12_springmvc_validacion_de_formulario:
+
+	Se muestra como validar formularios con spring-mvc, configurando el contenedor spring con xml.
+
+* Practica_13_springmvc_validacion_de_formulario_configurado_java:
+
+	Se muestra como validar formularios con spring-mvc, configurando el contenedor spring con codigo java.
+
 
