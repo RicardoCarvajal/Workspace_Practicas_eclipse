@@ -50,4 +50,11 @@ En el repositorio encontramos cada tema especificando el **tema en el nombre del
 
 	Se muestra como validar formularios con spring-mvc, configurando el contenedor spring con codigo java.
 
+* Practica_14_springmvc_soporte_varios_idiomas:
+
+	Se muestra como se aplica un I18N con spring-mvc, la configuracion spring es en java.
+
+* Practica_15_springmvc_vistas_pdf_xls_cambio_tema:
+
+	Se muestra como puede obtener vistas en pdf y xls con spring-mvc, adicionalmente se aplica la configuracion con cambio de temas, la configuracion spring es en java.
 
