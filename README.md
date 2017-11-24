@@ -58,3 +58,11 @@ En el repositorio encontramos cada tema especificando el **tema en el nombre del
 
 	Se muestra como puede obtener vistas en pdf y xls con spring-mvc, adicionalmente se aplica la configuracion con cambio de temas, la configuracion spring es en java.
 
+* Practica_16_spring_boot:
+
+	Proyecto de introduccion a spring boot, configuracion basica.
+
+* Practica_17_spring_boot:war:
+
+	Proyecto de introduccion a spring boot, configuracion basica para generar el war.
+
