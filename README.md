@@ -62,7 +62,3 @@ En el repositorio encontramos cada tema especificando el **tema en el nombre del
 
 	Proyecto de introduccion a spring boot, configuracion basica.
 
-* Practica_17_spring_boot:war:
-
-	Proyecto de introduccion a spring boot, configuracion basica para generar el war.
-
