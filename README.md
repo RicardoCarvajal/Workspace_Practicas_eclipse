@@ -20,6 +20,14 @@ En el repositorio encontramos cada tema especificando el **tema en el nombre del
 
 	Se desarrolla de forma sencilla una aplicacion web MVC con spring framework, se hace la configuracion con XML.
 
+* Practica_4_tirar_dados_en_arreglo:
+
+	Se presenta un juego de dados para practicar manejo de arreglos en java.
+
+* Practica_5_encuesta_estudiantil:
+
+	Se presenta un programa que representa una encuesta estudiantil para practicar el manejo de arreglos en java.
+
 * Practica_6_springmvc_configuracion_con_anotaciones:
 
 	Se muestra como hacer la configuracion de los contenedores springmvc con anotaciones.
@@ -37,6 +45,10 @@ En el repositorio encontramos cada tema especificando el **tema en el nombre del
 * Practica_9_springmvc_manejo_vista_controlador_plantilla:
 
 	Se muestra como utilizar el modelo vista controlador con spring mvc y .tag de jsp.
+
+* Practica_10_juego_de_cartas:
+
+	Se crea un juego de cartas el cual es usado para mostrar el manejo de arreglos en java.
 
 * Practica_11_springmvc_manejo_acceso_a_datos:
 
