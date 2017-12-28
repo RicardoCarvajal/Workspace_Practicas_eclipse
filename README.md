@@ -74,3 +74,19 @@ En el repositorio encontramos cada tema especificando el **tema en el nombre del
 
 	Proyecto de introduccion a spring boot, configuracion basica.
 
+* Practica_17_hilos_jsp_barra_progreso:
+
+	Ejemplo de como utilizar los hilos en un jsp, haciendo correr un proceso en background mientras se llena una barra de progreso.
+
+* Practica_18_hilos_jsp_logs:
+	
+	Ejemplo de como utilizar los hilos en un jsp verificando el log de un aaplicacion.
+
+* Practica_19_spring_rest:
+
+	Levantar un servicio rest utilizando spring boot con tomcat externo.
+
+* Practica_20_spring_boot_vaadin:
+
+	Ejemplo de integracion de spring boot con vaadin. 
+
