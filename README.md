@@ -88,5 +88,9 @@ En el repositorio encontramos cada tema especificando el **tema en el nombre del
 
 * Practica_20_spring_boot_vaadin:
 
-	Ejemplo de integracion de spring boot con vaadin. 
+	Ejemplo de integracion de spring boot con vaadin.
+
+* Practica_21_spring_boot_vaadin_jpa:
+
+	Ejemplo de integracion de spring boot con vaadin usando tambien JPA.
 
