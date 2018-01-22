@@ -94,3 +94,8 @@ En el repositorio encontramos cada tema especificando el **tema en el nombre del
 
 	Ejemplo de integracion de spring boot con vaadin usando tambien JPA.
 
+* Practica_22_arreglos_ejercicios_varios:
+
+	Se presentan varios ejercicios que tienen que ver con arreglos en java.
+
+
