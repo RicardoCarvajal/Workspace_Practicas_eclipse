@@ -98,4 +98,16 @@ En el repositorio encontramos cada tema especificando el **tema en el nombre del
 
 	Se presentan varios ejercicios que tienen que ver con arreglos en java.
 
+* Practica_23_clases_objetos:
+
+	Se propone un ejercicio en el cual se presenta un ejemplo del uso de "static import", "manejo del metodo tostring", y "manejo de excepciones en metodos setter"
+
+* Practica_24_servlets_basico:
+
+	Se muestra la creacion de un primer servlet sencillo.
+
+* Practica_25_servlet_ciclo_vida:
+
+	este es un ejemplo para mostrar la creacion de el ciclo de vida de un servlet.
+
 
