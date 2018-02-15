@@ -108,6 +108,10 @@ En el repositorio encontramos cada tema especificando el **tema en el nombre del
 
 * Practica_25_servlet_ciclo_vida:
 
-	este es un ejemplo para mostrar la creacion de el ciclo de vida de un servlet.
+	Este es un ejemplo para mostrar la creacion de el ciclo de vida de un servlet.
+
+* Practica_26_herencia:
+
+	Este proyecto contiene ejemplos que muestra el manejo de la herencia y la relacion entre clases.
 
 
