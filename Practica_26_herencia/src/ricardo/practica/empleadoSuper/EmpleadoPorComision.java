@@ -74,4 +74,11 @@ public class EmpleadoPorComision {
         return tarifasComision * ventasBrutas;
     }
 
+    @Override
+    public String toString() {
+        return String.format("%s: %s %s\n%s: %s\n%s: %.2f\n%s: %.2f", "Empleado por comision", primerNombre,
+                             apellidopaterno, "Numero de seguro social", numeroSeguroSocial, "Ventas brutas",
+                             ventasBrutas, "Tarifa de comision", tarifasComision);
+    }
+
 }
