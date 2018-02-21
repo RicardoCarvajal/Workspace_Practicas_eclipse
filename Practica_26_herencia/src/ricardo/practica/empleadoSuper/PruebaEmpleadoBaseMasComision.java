@@ -2,6 +2,17 @@ package ricardo.practica.empleadoSuper;
 
 public class PruebaEmpleadoBaseMasComision {
 
+    public static void modificaEmpleado(EmpleadoBaseMasComision empleado) {
+
+        empleado.setVentasBrutas(500);
+
+        empleado.setTarifasComision(.1);
+
+        System.out.printf("\n%s : \n\n%s\n",
+                          "Informacion actualizada del empleado, obtenida mediante toString implicito", empleado);
+
+    }
+
     public static void main(String[] args) {
 
         EmpleadoBaseMasComision empleadoPorComision = new EmpleadoBaseMasComision("Ricardo", "Carvajal",
@@ -23,9 +34,7 @@ public class PruebaEmpleadoBaseMasComision {
 
         System.out.printf("%s %s\n", "El monto del sueldo base es: ", empleadoPorComision.getSalarioBase());
 
-        empleadoPorComision.setVentasBrutas(500);
-
-        empleadoPorComision.setTarifasComision(.1);
+        modificaEmpleado((EmpleadoBaseMasComision) empleadoPorComision.clone());
 
         System.out.printf("\n%s : \n\n%s\n",
                           "Informacion actualizada del empleado, obtenida mediante toString implicito",

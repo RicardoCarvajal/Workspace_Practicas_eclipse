@@ -112,6 +112,9 @@ En el repositorio encontramos cada tema especificando el **tema en el nombre del
 
 * Practica_26_herencia:
 
-	Este proyecto contiene ejemplos que muestra el manejo de la herencia y la relacion entre clases.
+	Este proyecto contiene ejemplos que muestra el manejo de la herencia y la relacion entre clases, tambien un ejemplo de la utilizacion del metodo clone().
 
+* Practica_27_etiquetas:
+
+	Se muestra el uso basio de las etiquetas y su ubicacion en un jframe.
 

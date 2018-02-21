@@ -1,6 +1,6 @@
 package ricardo.practica.empleadoSuper;
 
-public class EmpleadoBaseMasComision extends EmpleadoPorComision {
+public class EmpleadoBaseMasComision extends EmpleadoPorComision implements Cloneable {
 
     private double salarioBase;
 
@@ -32,6 +32,17 @@ public class EmpleadoBaseMasComision extends EmpleadoPorComision {
     public String toString() {
         return String.format("%s %s\n%s: %.2f", "Con sueldo base", super.toString(), "Salario base", salarioBase);
 
+    }
+
+    public Object clone() {
+
+        EmpleadoBaseMasComision obj = null;
+        try {
+            obj = (EmpleadoBaseMasComision) super.clone();
+        } catch (CloneNotSupportedException e) {
+            System.out.println("No se pudo copiar el objeto");
+        }
+        return obj;
     }
 
 }
