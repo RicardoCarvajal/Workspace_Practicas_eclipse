@@ -122,3 +122,11 @@ En el repositorio encontramos cada tema especificando el **tema en el nombre del
 
 	Se muestra por medio de ejemplos el uso de polimorfismo en java.
 
+* Practica_29_init_servlet
+
+	Se expone el uso del metodo init() en un servlet.
+
+* Practica_30_init_destroy_metodo_servlet
+
+	Se muestra el uso del metodo destroy en un servlet.
+
