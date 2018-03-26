@@ -118,3 +118,7 @@ En el repositorio encontramos cada tema especificando el **tema en el nombre del
 
 	Se muestra el uso basio de las etiquetas y su ubicacion en un jframe.
 
+* Practica_28_polimorfismo_clase_empleado:
+
+	Se muestra por medio de ejemplos el uso de polimorfismo en java.
+
