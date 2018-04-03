@@ -130,3 +130,7 @@ En el repositorio encontramos cada tema especificando el **tema en el nombre del
 
 	Se muestra el uso del metodo destroy en un servlet.
 
+* Practica_31_manejo_excepciones
+
+	Se muestra el manejo de excepciones.
+
