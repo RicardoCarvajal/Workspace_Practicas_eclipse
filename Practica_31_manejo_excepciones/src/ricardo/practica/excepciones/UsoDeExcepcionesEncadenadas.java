@@ -4,6 +4,16 @@ public class UsoDeExcepcionesEncadenadas {
 
     public static void main(String[] args) {
 
+        String objeto = "Ricardo";
+
+        try {
+            // Probando la precondicion del metodo charAt
+            objeto.charAt(50);
+
+        } catch (IndexOutOfBoundsException indexOutOfBoundsException) {
+            indexOutOfBoundsException.printStackTrace();
+        }
+
         try {
             metodo1();
         } catch (Exception exception) {
