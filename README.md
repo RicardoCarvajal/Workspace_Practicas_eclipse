@@ -134,3 +134,18 @@ En el repositorio encontramos cada tema especificando el **tema en el nombre del
 
 	Se muestra el manejo de excepciones.
 
+* Practica_32_servicio_jax_rs
+
+	Se muestra como levantar un servicio rest sencillo con la implementacion de jboss.
+
+* Practica_33_cliente_jax_rs
+
+	Se muestra como levantar un cliente rest sencillo con la implementacion de jboss.
+
+* Practica_34_servicio_jax_rs_cajas
+
+	Se levanta servicio con jpa ya elaborados, para manipular los datos del servicio.
+
+* Practica_35_cliente_jax_rs_cajas
+
+	Se levanta cliente para usar un servicio que use jpa ya elaborados, para manipular los datos del servicio.
